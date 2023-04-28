@@ -1,0 +1,179 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: antiquewhite;
+}
+.container{
+    width: 1040px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.header{
+    padding: 0px,10px;
+    box-shadow: 0px,10px,15px, #8d8c8c;
+
+}
+.header_logo{
+    width: 150px;
+    height: auto;
+    padding: 20px,0px;}
+    .header_nav{
+        width: 300px;
+        margin-left: 50px;
+        margin-top: 15px;
+    }
+    .header_nav a{
+        text-decoration: none;
+        color: black;
+        margin-left: 10px;
+        
+    }
+    .header_btn{
+        
+        
+        margin-left: 800px;
+        width: 450px;
+        }
+    .header_btn a{
+        text-decoration: none;
+        padding: 10px,15px;
+        border: radius 50px;
+        width: 10px;
+
+        margin: 50 px,25px ;
+        }
+    .header_btn_one{
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+        background-color: antiquewhite;
+    }
+
+    .header_btn_two{
+        color: rgb(0, 0, 0);
+        background-color: rgb(11, 187, 43);
+        border-radius: 15px;
+        
+        padding: 10px;
+        text-decoration: none;
+    
+        
+    }
+    .header_btn_two:hover{
+        color: azure;
+        background-color: black;
+        font-size: 15px;
+    }  
+    .main_page{
+        
+        background-image: url('byackpng.png');
+        width: 1100px;
+        padding: 150px;
+        
+
+        
+    
+    }
+    .box2{
+        font-size: 60px;
+        font-weight: 540;
+        word-wrap: break-word;
+        text-align: left;
+        width: 250px;
+        margin-top: 5x;
+        margin-left: 0px;
+        
+        
+    }
+    .box3{
+        font-size: medium;
+        font-weight: 600;
+        word-wrap: break-word;
+        text-align: left;
+        
+
+        }
+        .downlad_btn_down  {
+            text-decoration: none;
+            
+            color: black;
+            background-color: rgb(5, 145, 30);
+            padding: 10px;
+            width: 75px;
+
+            border-radius: 10px;
+            
+        }
+
+    .downlad_btn_down:hover{
+        color: azure;
+        background-color: black ;
+        
+    }
+
+    .image_quote img{
+width: 100%;
+    }
+    .box5_1{
+        font-size: large;
+        width: 45%;
+        margin: auto ;
+    }
+
+    .box5_1 img{
+        width: 65%;
+        padding: 20%;
+
+    }
+    .box6{
+        background-color: rgb(16, 16, 35);
+    }
+    .box6_6{
+        width: 45%;
+        margin: auto;
+        color: azure;
+        text-decoration: none;
+    }
+    .headingg{
+        color: rgb(21, 179, 21);
+        width: 15px;
+        font-size: larger   ;
+
+    }
+    .box6_6 img{
+        width: 100%;
+        margin: auto;
+
+    }
+    .header_btn_dwn{
+        margin-top: 10px;
+        margin-left: 300px;
+        margin-bottom: 10px;
+    }
+
+    
+
+
+   
+    
+
+    
+
+
+    
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+    
